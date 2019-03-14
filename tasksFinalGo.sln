@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tasksFinalGo", "tasksFinalGo\tasksFinalGo.csproj", "{FE59C1D1-5B6C-4F99-A464-F3153D76BC47}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79E01565-0FD2-48F2-9E1E-DB210100F3AA}"
+	ProjectSection(SolutionItems) = preProject
+		tasks.txt = tasks.txt
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
